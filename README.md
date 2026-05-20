@@ -65,8 +65,3 @@
 | Panel | `pnlTools` | 右側工具面板容器 |
 
 ---
-
-
-└── Resources/
-    ├── Book1.bmp ~ Book8.bmp  # 書籍封面圖示
-```
